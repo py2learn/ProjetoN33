@@ -1,0 +1,47 @@
+
+TÍTULO *
+
+Curso de Python em Jupyter
+
+TEMA
+
+Programação em Python.
+
+Orientador
+
+João Beleza
+
+email de contacto
+
+jsousa@deetc.isel.ipl.pt
+
+Grupo(s) Disciplinar(es)
+
+Sistemas Informáticos
+
+RESUMO DA PROPOSTA
+
+Pretende-se montar um curso de Pyhton na plataforma Jupyter.
+
+Fases propostas:
+
+0. definição das diretivas de apresentação dos conteúdos (o código
+está em células e é só executar ou está em texto e tem que se fazer
+copy/paste para células ou não é apresentado e o formando tem que o
+produzir?).
+
+1. desenvolvimento de notebooks do curso de forma estruturada e que
+permita a adição de partes adicionais no futuro. Definir como é que se
+navega entre notebooks.
+
+2. desenvolvimento de exercícios de correção automática.
+
+3. especificação da infraestrura de alojamento do curso.
+
+Palavra Chave
+
+Python
+
+Palavra Chave
+
+Jupyter
